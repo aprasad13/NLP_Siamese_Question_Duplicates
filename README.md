@@ -1,6 +1,6 @@
 # NLP_Siamese_Question_Duplicates
 
-Many times there are several questions that are already asked in quora, or other platforms. This notebook shows a method which can rectify this problem or in other words I can say that it can detect the two duplicate questions. To achive this task I have used <strong>Siamese networks</strong>(consists of two parallel layers of embedding + LSTM + deep_layer)
+Many times there are several questions that are already asked in quora, or other platforms. This notebook shows a method which can rectify this problem or in other words I can say that it can detect the two duplicate questions. To achive this task I have used <strong>Siamese networks</strong> which consists of two parallel layers of embedding + LSTM + deep_layer
 
 
 ## Overview
